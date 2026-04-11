@@ -1,0 +1,8 @@
+
+num1 = int(input("enter the first number: ")) # entering the first number 
+num2 = int(input("enter the second number: ")) # entering the second number 
+    
+num3 = num1 + num2 # adding two numbers 
+print(num3)  # printing the result which is stored the in num3 
+
+so this is the smalll operation of variables using in data type 
