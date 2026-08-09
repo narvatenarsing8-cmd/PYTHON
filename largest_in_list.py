@@ -1,0 +1,11 @@
+# Program to find the largest number in a list
+
+numbers = [12, 45, 23, 67, 34, 89, 10]
+
+largest = numbers[0]
+
+for num in numbers:
+    if num > largest:
+        largest = num
+
+print("Largest number =", largest)
