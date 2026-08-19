@@ -13,4 +13,4 @@ while temp > 0:
 if num == sum:
     print("Armstrong Number")
 else:
-    print("Not an Armstrong Number")
+    print("Not an Armstrong Number") 
