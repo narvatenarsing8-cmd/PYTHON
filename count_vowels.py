@@ -9,3 +9,4 @@ for char in text:
         count += 1
 
 print("Number of vowels =", count)
+.
